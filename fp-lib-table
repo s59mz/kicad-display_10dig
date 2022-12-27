@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "display_10dig")(type "KiCad")(uri "${KIPRJMOD}/display_10dig.pretty")(options "")(descr ""))
+  (lib (name "pcm")(type "KiCad")(uri "/home/matjaz/kicad/pcm_pmod/pcm.pretty")(options "")(descr ""))
+)
